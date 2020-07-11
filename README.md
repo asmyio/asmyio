@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I enjoy resolving complex problems with engineering and technology in a substantial way („• ֊ •„)
+
 <!--
 **asmyio/asmyio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
