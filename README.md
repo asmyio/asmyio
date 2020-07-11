@@ -1,8 +1,7 @@
 ##### Hi there 👋
-
-I'm a full stack developer & flutter addict!  
-That means I can do web and mobile apps (electronics too!)  
-Programming Skills: HTML5, CSS3, SQL, noSQL, SQLite, JavaScript, Python, Dart, C/C#/C++, MATLAB.  
+> I'm a full stack developer & flutter addict!  
+> That means I can do web and mobile apps (electronics too!)  
+> Programming Skills: HTML5, CSS3, SQL, noSQL, SQLite, JavaScript, Python, Dart, C/C#/C++, MATLAB.  
 ##### Framework and Technologies:
 * ##### JavaScript       - MERN: MongoDB, Express, React, NodeJS
 * ##### Python           - Pandas, Seaborn, Django, Flask
