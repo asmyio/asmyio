@@ -1,6 +1,6 @@
 ##### Hi there 👋
 > I'm a full stack developer & flutter addict!  
-> That means I can do web and mobile apps (electronics too!)
+> (I can do electronics too!)
 
 ##### Framework and Technologies:
 * ##### JavaScript       - MERN: MongoDB, Express, React, NodeJS
