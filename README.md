@@ -1,10 +1,10 @@
 ##### Hi there 👋
-> I'm a full stack developer & flutter addict!  
-> (I can do electronics too!)
+> Full Stack Dev & Mechatronics Engineering Undergrad!  
+> (I build web and mobile apps and can do electronics too!)
 
 ##### Framework and Technologies:
 * ##### JavaScript       - MERN: MongoDB, Express, React, NodeJS
-* ##### Python           - Pandas, Seaborn, Django, Flask
+* ##### Python           - Pandas, NumPy, scikit-learn, seaborn, Django, Flask
 * ##### Dart             - Flutter
 
 <!--
