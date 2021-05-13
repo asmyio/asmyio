@@ -2,6 +2,8 @@
 > Full Stack Dev & Mechatronics Engineering Undergrad!  
 > (I build web & mobile apps + play with electronics occasionally)
 
+![asmy_cmd](https://github.com/asmyio/asmyio/asmy_cmd.gif)
+
 ##### Framework and Technologies:
 * ##### JavaScript       - MERN: MongoDB, Express, React, NodeJS
 * ##### Python           - Pandas, NumPy, scikit-learn, seaborn, Django, Flask
