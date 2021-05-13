@@ -1,6 +1,6 @@
 ##### Hi there 👋
 > Full Stack Dev & Mechatronics Engineering Undergrad!  
-> (I build web and mobile apps and can do electronics too!)
+> (I build web & mobile apps + play with electronics occasionally)
 
 ##### Framework and Technologies:
 * ##### JavaScript       - MERN: MongoDB, Express, React, NodeJS
