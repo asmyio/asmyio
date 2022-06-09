@@ -1,4 +1,3 @@
-![asmy_cmd](https://github.com/asmyio/asmyio/blob/master/asmy_cmd.gif)
 <!--
 **asmyio/asmyio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on myself
+- 🌱 I’m currently learning about blockchain tech
+- 👯 I’m looking to collaborate on IoT projects
+- 🤔 I’m looking for help with tech project
+- 💬 Ask me about hiring me
+- 📫 How to reach me: I'm on LinkedIn https://www.linkedin.com/in/asmyio/
+- ⚡ Fun fact: I'm currently bored and broke
+
+
