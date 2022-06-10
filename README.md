@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning about blockchain tech
 - 👯 I’m looking to collaborate on IoT projects
-- 🤔 I’m looking for help with tech project
-- 💬 Ask me about hiring me
 - 📫 How to reach me: I'm on LinkedIn https://www.linkedin.com/in/asmyio/
-- ⚡ Fun fact: I'm currently bored and broke
+- ⚡ Fun fact: I'm currently bored, looking for a job :D
 
 
