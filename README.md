@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on myself
-- 🌱 I’m currently learning about blockchain tech
-- 👯 I’m looking to collaborate on IoT projects
+- 🔭 I’m currently pursuing CISSP
+- 🌱 I’m currently learning about Cybersecurity
+- 👯 I’m looking to be hired as Cybersecurity Consultant
 - 📫 How to reach me: I'm on LinkedIn https://www.linkedin.com/in/asmyio/
 - ⚡ Fun fact: I'm always bored, therefore, I'm always learning :)
 
