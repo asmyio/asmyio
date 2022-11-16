@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- "I love money" - asmy
+- "I love money" - [Ahmad Siraj MY](https://linkedin.com/in/asmyio)
