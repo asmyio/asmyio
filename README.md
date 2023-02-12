@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- B.Eng. Mechatronics (washington accord accredited) - [Ahmad Siraj MY](https://linkedin.com/in/asmyio)
+B.Eng. Mechatronics (Honors)
+IoT, Automation, Robotics and AI
