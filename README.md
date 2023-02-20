@@ -15,3 +15,14 @@ Here are some ideas to get you started:
 
 B.Eng. Mechatronics (Honors)
 IoT, Automation, Robotics and AI
+
+I provide:
+
+- Professional Development Training
+    - Python
+    - Data Analytics
+    - Software Development
+    - Electronics
+- Professional Services
+    - Software & Hardware Development Consultancy
+    - Full Stack, Cloud, Data, IoT & Embedded Systems
