@@ -20,6 +20,6 @@ I breakdown business problems into hardware/software problems, these are the ser
 
 | Professional Development Training | Professional Services / Consultancy |
 | :---  | :---  |
-| Python 101 | Software & Hardware Development |
-| Data Analytics/Engineering  | Full Stack, Cloud, Data, IoT & Embedded Systems  |
-| Web / Mobile Development  | Mechatronics / Mechanical / Electronics Development  |
+| 🐍 Python 101 | 🛠️ Software & Hardware Development |
+| ⚙️ Data Analytics/Engineering  | ☁️ Full Stack, Cloud, Data, IoT & Embedded Systems  |
+| 💻 Web / Mobile Development  | 🦾 Mechatronics / Mechanical / Electronics Development  |
