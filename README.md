@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 B.Eng. Mechatronics (Honors)
 IoT, Automation, Robotics and AI
 
-I provide:
+I'm able to breakdown business problems into hardware/software problems.
 
 - Professional Development Training
     - Python
