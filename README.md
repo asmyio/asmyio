@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-B.Eng. Mechatronics (Honors)
-IoT, Automation, Robotics and AI
+B.Eng. Mechatronics (Honors) - IoT, Automation, Robotics and AI
 
 I breakdown business problems into hardware/software problems, these are the services that I provide:
 
