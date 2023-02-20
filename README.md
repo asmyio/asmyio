@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-B.Eng. Mechatronics (Honors) - IoT, Automation, Robotics and AI
-\(ISC)² - Certified in Cybersecurity℠
+B.Eng. Mechatronics (Honors) - IoT, Automation, Robotics and AI\
+(ISC)² - Certified in Cybersecurity℠
 
 I breakdown business problems into hardware/software problems, these are the services that I provide:
 
