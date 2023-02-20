@@ -16,13 +16,10 @@ Here are some ideas to get you started:
 B.Eng. Mechatronics (Honors)
 IoT, Automation, Robotics and AI
 
-I'm able to breakdown business problems into hardware/software problems.
+I breakdown business problems into hardware/software problems.
 
-- Professional Development Training
-    - Python
-    - Data Analytics
-    - Software Development
-    - Mechatronics / Mechanical / Electronics Development
-- Professional Services
-    - Software & Hardware Development Consultancy
-    - Full Stack, Cloud, Data, IoT & Embedded Systems
+| Professional Development Training      | Professional Services / Consultancy |
+| :---        |    :---   |
+| Python      | Software & Hardware Development       |
+| Data Analytics/Engineering   | Full Stack, Cloud, Data, IoT & Embedded Systems        |
+| Web / Mobile Development   | Mechatronics / Mechanical / Electronics Development        |
