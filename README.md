@@ -22,7 +22,7 @@ I'm able to breakdown business problems into hardware/software problems.
     - Python
     - Data Analytics
     - Software Development
-    - Electronics / Electromechanics Development
+    - Mechatronics / Mechanical / Electronics Development
 - Professional Services
     - Software & Hardware Development Consultancy
     - Full Stack, Cloud, Data, IoT & Embedded Systems
