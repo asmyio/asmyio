@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 📜 B.Eng. Mechatronics (Honors) - IoT, Automation, Robotics and AI\
+🪪 BEM Grad. Eng. Mechatronics [G1221960A](https://engineer.org.my/public/Engineers/Index/242909)\
 🪪 (ISC)² - Certified in Cybersecurity℠
 
 I breakdown business problems into hardware/software problems, these are the services that I provide:
