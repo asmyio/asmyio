@@ -17,11 +17,3 @@ Here are some ideas to get you started:
 🪪 BEM Grad. Eng. Mechatronics [G1221960A](https://engineer.org.my/public/Engineers/Index/242909)\
 🪪 EA GradIEAust Mechatronics 9530534\
 🪪 (ISC)² - Certified in Cybersecurity℠
-
-I breakdown business problems into hardware/software problems, these are the services that I provide:
-
-| Professional Development Training | Professional Services / Consultancy |
-| :---  | :---  |
-| 🐍 Python 101 | 🛠️ Software & Hardware Development |
-| ⚙️ Data Analytics/Engineering  | ☁️ Full Stack, Cloud, Data, IoT & Embedded Systems  |
-| 💻 Web / Mobile Development  | 🦾 Mechatronics / Mechanical / Electronics Development  |
