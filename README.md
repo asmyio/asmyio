@@ -13,7 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📜 B.Eng. Mechatronics (Honors) - IoT, Automation, Robotics and AI\
-🪪 BEM Grad. Eng. Mechatronics [G1221960A](https://engineer.org.my/public/Engineers/Index/242909)\
-🪪 EA GradIEAust Mechatronics 9530534\
-🪪 (ISC)² - Certified in Cybersecurity℠
+upgrade in progress...
