@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software engineer who likes AWS, GCP, Python, SQL, Node.js,Flutter and React.
+I used to be known as the whole IT department.
+Currently interested in Business Analytics & Data Engineering.
