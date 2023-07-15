@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I love to use Python, JavaScript, SQL, Bash / Unix commands everyday.
-- ⚡ Fun fact: I used to be known as the whole IT department.
+- ⚡ Fun fact: I am known as the whole IT department.
 - 🌱 Currently pursuing Masters in Business Adminstration (M.B.A. Business Analytics).
