@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I used to be known as the whole IT department.
-Currently interested in Business Analytics & Data Engineering.
+I love to use Python, JavaScript, SQL, Bash / Unix commands everyday.
+- ⚡ Fun fact: I used to be known as the whole IT department.
+- 🌱 Currently pursuing Masters in Business Adminstration (M.B.A. Business Analytics).
