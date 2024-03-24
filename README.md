@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65fffde26deb533d6e2164cc?variant=dark)](https://roadmap.sh)
-I use Python, JavaScript, SQL, Bash / Unix commands everyday.
+
+- I use Python, JavaScript, SQL, Bash / Unix commands everyday.
 - ⚡ Fun fact: I'm the whole IT department
 - 🌱 Currently pursuing Masters in Business Adminstration (M.B.A. Tech).
