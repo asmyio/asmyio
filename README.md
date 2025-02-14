@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Tech Lead (SRE-SWE/DevSecOps)
+# SRE-SWE/DevSecOps
 Javascript, Python feat. AWS & GCP
 - B.Eng Mechatronics
 - M.Cybersecurity
