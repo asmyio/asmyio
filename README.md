@@ -20,5 +20,7 @@ Javascript, Python feat. AWS & GCP
 
 Find me at [asmy.dev](https://asmy.dev)
 
+![HRD Corp Accredited Trainer](/assets/images/18910.png "18910")
+
 ## 🇲🇾
-Certified Trainer HRDCorp, Grad.Eng. (BEM)
+HRD Corp Accredited Trainer, Grad.Eng. (BEM)
