@@ -18,8 +18,10 @@ Here are some ideas to get you started:
     <img src="/assets/images/18910.png" alt="HRD Corp Accredited Trainer Logo" title="18910" width="20%" height="20%">
 </a>
 
-## Javascript, Python feat. AWS & GCP
+## Javascript, Python, Cloud Agnostic and more.
+
 - B.Eng Mechatronics
+- Post Graduate Diploma in Teaching
 - M.Cybersecurity
 
 Find me at [asmy.dev](https://asmy.dev)
