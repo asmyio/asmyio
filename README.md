@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# SRE-SWE, DevSecOps
+# Infrastructure Cloud Engineer
 <a href="https://trainers.hrdcorp.gov.my/ecert?id=282fd260-8363-11ee-9619-05336622d615&certUuid=282fd260-8363-11ee-9619-05336622d615" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/18910.png" alt="HRD Corp Accredited Trainer Logo" title="18910" width="20%" height="20%">
 </a>
 
-## Javascript, Python, Cloud Agnostic and more.
+## Javascript, Python, C/C++, Cloud Agnostic and more.
 
 - B.Eng Mechatronics
 - Post Graduate Diploma in Teaching
